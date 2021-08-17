@@ -1,0 +1,47 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§4Lego §eBrick §aClient §1V1§r -- Made By:SuperLego",
+        "name": "§4Lego §eBrick §aClient §1V1",
+        "uuid": "f9c8de92-b6d3-4078-a6b6-4bd2fa60d49c",
+        "version": [
+            0,
+            1,
+            12
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            220
+        ]
+    },
+    "modules": [
+        {
+            "description": "none",
+            "type": "resources",
+            "uuid": "cb9208ef-0c77-478c-8e06-900b6165ff58",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "hack",
+            "name": "§4§kH§r§eHack Overlay§4§kH§r",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "small",
+            "name": "Small",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "normal",
+            "name": "Default",
+            "memory_tier": 1
+        }
+    ]
+}

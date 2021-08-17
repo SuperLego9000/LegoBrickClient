@@ -1,0 +1,82 @@
+multiplayer.player.joined=§a§l✔%s
+multiplayer.player.joined.renamed=§a§l✔%s (formerly known as %s)
+multiplayer.player.joined.realms=§a§l✔%s
+multiplayer.player.joined.realms.renamed=§a§l✔%s (formerly known as %s)
+multiplayer.player.left=§4§l✖%s
+multiplayer.player.left.realms=§4§l✖%s
+##chat messages
+tile.bed.noSleep=Cant sleep durring daytime
+tile.bed.notSafe=Monsters nearby
+tile.bed.notValid=no bed
+tile.bed.occupied=You may not sleep with them
+tile.bed.respawnSet=Spawn Set
+tile.bed.tooFar=bed too far away
+tile.bed.obstructed=Bed is obstructed
+chat.type.sleeping=%s is sleeping
+##beds
+progressScreen.message.waitingForRealms=This may take awhile
+disconnectionScreen.invalidSkin=Switch to a normal skin instead of invis idiot!
+progressScreen.message.building=Ok your in the game now
+##loading
+menu.globalpacks=Resources
+menu.behaviors=Mods
+selectWorld.tab.friends=Realms
+addExternalServerScreen.saveButtonLabel=Back
+selectServer.select=Connect
+networkWorld.join_server=Connect
+networkWorld.lan_label=Local Worlds
+selectWorld.createNew=Create A New World
+thirdPartyWorld.Additional=Custom Servers
+networkWorld.no_joinable_friends_label=No Friends are currently playing minecraft, sorry!
+playscreen.worlds=Your Worlds
+playscreen.realms=Your Realms
+addExternalServerScreen.portTextBoxLabel=Port (Defualt is 19132)
+menu.quit=§2Save§r & §4Quit!
+pauseScreen.quit=§2Save§r & §4Quit!
+pauseScreen.invite=Invite Friends!
+permissions.description.visitors=Cant do anything but iteract with armor stands and throw potions
+permissions.description.members=Regular Players
+permissions.description.operators=Players with Commands
+createWorldScreen.daylightcycle=Daylight Cycle
+permissions.title.settings=Defualt Permission Level
+createWorldScreen.gameMode.personal=Your Game Mode
+resourcePack.header.level=Force Resource Packs
+resourcePack.suggestedContent.title=Marketplace Packs
+resourcePack.available.title.packs=Disabled
+resourcePack.selected.title.packs=Active
+#menus
+container.hopper=Hopper
+container.repair=Anvil
+chestScreen.header.large=Double Chest
+#entity blocks
+accessibility.chat.howtoopen=Press %s to chat
+chat.stream.text=(%s)%s-%s
+chat.type.text=>%s< %s
+map.position=%s,%s,%s
+multiplayer.player.changeToSkin=%s changed to "%s" skin.
+##chat stuff
+enchantment.level.1=1
+enchantment.level.2=2
+enchantment.level.3=3
+enchantment.level.4=4
+enchantment.level.5=5
+enchantment.level.6=6
+enchantment.level.7=7
+enchantment.level.8=8
+enchantment.level.9=9
+enchantment.level.10=10
+##enchant levels
+item.diamond_pickaxe.name=D Pick
+item.diamond_axe.name=D Axe
+item.diamond_shovel.name=D Shov.
+item.diamond_hoe.name=D Hoe
+tile.diamond_block.name=DB
+item.golden_pickaxe.name=Golden Pick
+item.iron_pickaxe.name=Iron Pick
+item.stone_pickaxe.name=Stone Pick
+item.wooden_pickaxe.name=Wooden Pick
+item.golden_shovel.name=Golden Shov.
+item.iron_shovel.name=Iron Shov.
+item.stone_shovel.name=Stone Shov.
+item.wooden_shovel.name=Wooden Shov.
+##tools
