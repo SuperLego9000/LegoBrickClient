@@ -3809,18 +3809,18 @@
           "type": "label",
           "font_scale_factor": 1.0,
           "text": "§9
-   Custom Names for all tools and armour
-   Less obstructive break particles
-   Color Coded Toggles in menus
-   Custom messages from beds
-   Color coded join message
-   Break percentage meter
-   better explosions
-   No SpyGlass Blur
-   No Pumpkin Blur
-   Crop indicator
-   Low Fire
-   No Fog
+          Custom Names for all tools and armor
+          Less obstructive break particles
+          Color-Coded Toggles in menus
+          Custom messages from beds
+          Color-coded join message
+          Break percentage meter
+          better explosions
+          No SpyGlass Blur
+          No Pumpkin Blur
+          Crop indicator
+          Low Fire
+          No Fog
    "
         }
       }
