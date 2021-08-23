@@ -44,6 +44,9 @@ resourcePack.header.level=Force Resource Packs
 resourcePack.suggestedContent.title=Marketplace Packs
 resourcePack.available.title.packs=Disabled
 resourcePack.selected.title.packs=Active
+deathScreen.message=RIP
+deathScreen.respawn=§eRespawn
+deathScreen.quit=§1Main menu
 #menus
 container.hopper=Hopper
 container.repair=Anvil

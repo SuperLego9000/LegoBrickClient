@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§4Lego §eBrick §aClient §1V1§r -- Made By:SuperLego",
-        "name": "§4Lego §eBrick §aClient §1V1",
+        "description": "§cLego §eBrick §aClient §9V1§r -- Made By:SuperLego",
+        "name": "§cLego §eBrick §aClient §9V1",
         "uuid": "f9c8de92-b6d3-4078-a6b6-4bd2fa60d49c",
         "version": [
             0,

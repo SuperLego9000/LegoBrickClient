@@ -24,11 +24,10 @@
   //--------------------------------------------------------------------------------
 
   "pack_info": {
-    "offset": [ -20, 2 ],
+    "offset": [ "%10", "%1" ],
     "type": "label",
-    "text": "§4Lego §eBrick §aClient §1V1",
+    "text": "§cLego §eBrick §aClient §9V1",
     "color": [ 1.0, 1.0, 1.0 ],
-    "shadow": true,
 "font_scale_factor": 0.7,
     "visible": "$pack_info_debug",
     "anchor_from": "top_right",
@@ -41,15 +40,14 @@
 
   "special_render": {
     "type": "label",
-    "text": "§e1.17.10-LBCV0.1.12-©SuperLego9000",
+    "text": "§e1.17.11-LBCV0.1.13-©SuperLego9000",
     "color": [ 1.0, 1.0, 1.0 ],
-    "shadow": true,
     "font_size": "small",
     "visible": "$pack_info_debug",
     //"text_alignment": "right",
     "anchor_from": "bottom_left",
     "anchor_to": "bottom_left",
-    "alpha": 0.5
+    "alpha": 0.6
   },
 
 //--------------------------------------------------------------------------------

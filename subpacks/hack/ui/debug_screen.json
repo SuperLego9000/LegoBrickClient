@@ -26,7 +26,7 @@
   "pack_info": {
     "offset": [ -1, 1 ],
     "type": "label",
-    "text": "§l§o§c§kH§r§l§o§e>§4Lego §eBrick §aClient§e<§c§kH§r§e
+    "text": "§l§o§c§kH§r§l§o§e>§cLego §eBrick §aClient§e<§c§kH§r§e
 §l§9Visuals
 §eChunk Borders
 §eXray
@@ -52,7 +52,7 @@
 
   "special_render": {
     "type": "label",
-    "text": "§e1.17.10",
+    "text": "§e1.17.11-0.1.13",
     "color": [ 1.0, 1.0, 1.0 ],
     "shadow": true,
     "font_size": "small",
