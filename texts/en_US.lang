@@ -13,6 +13,8 @@ tile.bed.respawnSet=Spawn Set
 tile.bed.tooFar=bed too far away
 tile.bed.obstructed=Bed is obstructed
 chat.type.sleeping=%s is sleeping
+commands.reload.success=Functions reloaded!
+commands.scoreboard.players.offlinePlayerName=~
 ##beds
 progressScreen.message.waitingForRealms=This may take awhile
 disconnectionScreen.invalidSkin=Switch to a normal skin instead of invis idiot!
