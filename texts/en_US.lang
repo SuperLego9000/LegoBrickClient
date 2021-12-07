@@ -49,11 +49,11 @@ resourcePack.selected.title.packs=Active
 deathScreen.message=RIP
 deathScreen.respawn=§eRespawn
 deathScreen.quit=§1Main menu
-#menus
+##menus
 container.hopper=Hopper
 container.repair=Anvil
 chestScreen.header.large=Double Chest
-#entity blocks
+##entity blocks
 accessibility.chat.howtoopen=Press %s to chat
 chat.stream.text=(%s)%s-%s
 chat.type.text=>%s< %s
