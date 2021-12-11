@@ -1,30 +1,68 @@
-0.1.13
+
+# VERSION CHANGE
+### from 12/11/2021 and on all versions will no longer be formatted as 
+`{<public><major><feature>}` 
+### and will be formatted now as 
+`<public><feature><testver>`
+
+> testver will refer to the ammount of game restarts I did when adding that feature
+
+# 0.1.13
+
 mob effect particles are RGB,nicer death particles,nicer death screen,fixed bug where on xbox the watermark would be far away from the corner
-0.1.12
+
+# 0.1.12
+
 changed up names of stuff in menus, made spyglass clear, made toggle color coded
-0.1.11
+
+# 0.1.11
+
 made better explosion particles,made snow unobstructive,no fog anywhere(even in water or lava),better endfog
-0.1.10
+
+# 0.1.10
+
 addded custom title picture in menus
-0.1.9
+
+# 0.1.9
+
 Made cape modules and added all minecon capes
-0.1.8
+
+# 0.1.8
+
 added custom cape
-0.1.7
+
+# 0.1.7
+
 added:small fire,no pumkin blur,color join message,crop indicator,about section in settings,color coded join messages
-0.1.6
+
+# 0.1.6
+
 small block break and block break particle scatter,removed custom elytra
-0.1.5
+
+# 0.1.5
+
 made rain only show up on the ground and only a little bit&added break bar
-0.1.4
+
+# 0.1.4
+
 added custom elytra model and icon
-0.1.3
+
+# 0.1.3
+
 added custom chats
-0.1.2
+
+# 0.1.2
+
 added version to watermark
+
 added a small subpack that removes gigantic LBC watermark
-0.1.1
+
+# 0.1.1
+
 added spashes
+
 added loading_messages
-0.1.0
+
+# 0.1.0
+
 added watermarks

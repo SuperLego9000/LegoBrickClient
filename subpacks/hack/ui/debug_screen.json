@@ -52,7 +52,7 @@
 
   "special_render": {
     "type": "label",
-    "text": "§e1.17.11-0.1.13",
+    "text": "§e1.18.1-0.1.13",
     "color": [ 1.0, 1.0, 1.0 ],
     "shadow": true,
     "font_size": "small",

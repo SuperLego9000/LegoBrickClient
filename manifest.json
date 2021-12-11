@@ -5,9 +5,9 @@
         "name": "§cLego §eBrick §aClient §9V1",
         "uuid": "f9c8de92-b6d3-4078-a6b6-4bd2fa60d49c",
         "version": [
-            0,
             1,
-            12
+            13,
+            0
         ],
         "min_engine_version": [
             1,

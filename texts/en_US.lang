@@ -14,7 +14,6 @@ tile.bed.tooFar=bed too far away
 tile.bed.obstructed=Bed is obstructed
 chat.type.sleeping=%s is sleeping
 commands.reload.success=Functions reloaded!
-commands.scoreboard.players.offlinePlayerName=~
 ##beds
 progressScreen.message.waitingForRealms=This may take awhile
 disconnectionScreen.invalidSkin=Switch to a normal skin instead of invis idiot!
@@ -49,6 +48,9 @@ resourcePack.selected.title.packs=Active
 deathScreen.message=RIP
 deathScreen.respawn=§eRespawn
 deathScreen.quit=§1Main menu
+commands.scoreboard.players.offlinePlayerName=~
+profileScreen.header=Edit Character
+profileScreen.manage_button_text=change skin
 ##menus
 container.hopper=Hopper
 container.repair=Anvil
@@ -71,17 +73,24 @@ enchantment.level.8=8
 enchantment.level.9=9
 enchantment.level.10=10
 ##enchant levels
-item.diamond_pickaxe.name=D Pick
-item.diamond_axe.name=D Axe
-item.diamond_shovel.name=D Shov.
-item.diamond_hoe.name=D Hoe
-tile.diamond_block.name=DB
-item.golden_pickaxe.name=Golden Pick
+item.diamond_pickaxe.name=§9D Pick
+item.diamond_axe.name=§9D Axe
+item.diamond_shovel.name=§9D Shov.
+item.diamond_hoe.name=§9D Hoe
+tile.diamond_block.name=§9DB
+item.golden_pickaxe.name=§eGolden Pick
 item.iron_pickaxe.name=Iron Pick
 item.stone_pickaxe.name=Stone Pick
 item.wooden_pickaxe.name=Wooden Pick
-item.golden_shovel.name=Golden Shov.
+item.golden_shovel.name=§eGolden Shov.
 item.iron_shovel.name=Iron Shov.
 item.stone_shovel.name=Stone Shov.
 item.wooden_shovel.name=Wooden Shov.
 ##tools
+
+tile.honey_block.name=§eHoney Block
+tile.honeycomb_block.name=§eHoneycomb Block
+item.honey_bottle.name=§eHoney Bottle
+item.honeycomb.name=§eHoneycomb
+tile.gold_block.name=§eBlock of Gold
+##random stuff

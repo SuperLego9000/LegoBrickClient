@@ -40,7 +40,7 @@
 
   "special_render": {
     "type": "label",
-    "text": "§e1.17.11-LBCV0.1.13-©SuperLego9000",
+    "text": "§e1.18.1-LBCV0.1.13-©SuperLego9000",
     "color": [ 1.0, 1.0, 1.0 ],
     "font_size": "small",
     "visible": "$pack_info_debug",
