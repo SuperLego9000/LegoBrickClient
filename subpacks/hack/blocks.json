@@ -1,0 +1,62 @@
+{
+  "stone" : { 
+    "textures" : "stone", 
+    "sound": "stone",
+    "blockshape": "tripwire"
+  },
+  "sandstone" : { 
+    "isotropic" : {"up" : true, "down" : true},
+    "textures" : { "up" : "sandstone_top", "down" : "sandstone_bottom", "side" : "sandstone_side"}, 
+    "brightness_gamma" : 0.70,
+    "sound": "stone",
+    "blockshape": "tripwire"
+  },
+  "dirt" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "tripwire"
+  },
+  "gravel" : { 
+    "textures" : "gravel", 
+    "sound": "gravel",
+    "blockshape": "tripwire"
+  },
+  "calcite" : {
+      "sound" : "calcite",
+      "textures" : "calcite",
+      "blockshape": "tripwire"
+  },
+  "smooth_basalt" : {
+      "sound" : "basalt",
+      "textures" : "smooth_basalt",
+      "blockshape": "tripwire"
+  },
+  "tuff" : {
+      "sound" : "tuff",
+      "textures" : "tuff",
+      "blockshape": "tripwire"
+  },
+  "deepslate" : {
+      "isotropic" : {
+        "down" : true,
+        "up" : true
+      },
+      "sound" : "deepslate",
+      "textures" : {
+        "down" : "deepslate_top",
+        "side" : "deepslate",
+        "up" : "deepslate_top"
+      },
+      "blockshape": "tripwire"
+  },
+  "dripstone_block" : {
+      "sound" : "dripstone_block",
+      "textures" : "dripstone_block",
+      "blockshape": "tripwire"
+  },
+ "water" : { 
+    "textures" : { "up" : "still_water", "down" : "still_water", "side" : "flowing_water"},
+    "blockshape": "tripwire"
+  }
+}
