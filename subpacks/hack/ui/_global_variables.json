@@ -1,0 +1,22 @@
+{
+    //"$rendertext": "§e $MC_Version - LBCV $LBC_Verion -©SuperLego9000"
+    "$rendertext": "§e1.19.0-0.14.9",
+    "$infotext": "§l§o§c§kH§r§l§o§e>§cLego §eBrick §aClient§e<§c§kH§r§e\n§l§9Visuals\n§eChunk Borders\n§eXray\n§l§9Player\n§eElytra Fly\n§eteleport\n§espeed\n§efly\n",
+
+
+    //just globals you should not change
+    "$rendersize": "small",
+    "$renderalignment": "center",
+    "$renderanchorfrom": "top_middle",
+    "$renderanchorto": "top_middle",
+    "$renderalpha": 0.3,
+    "$rendershadow": true,
+
+    "$infoshadow": true,
+    "$infoalignment": "center",
+    "$infooffset": [ -1,1 ],
+    "$infofont": 0.5,
+    "$infoanchorfrom": "top_right",
+    "$infoanchorto": "top_right",
+    "$infoalpha": 1
+}

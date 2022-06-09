@@ -1,0 +1,22 @@
+{
+    //"$rendertext": "§e $MC_Version - LBCV $LBC_Verion -©SuperLego9000"
+    "$rendertext": "§e1.19.0 - LBCV0.14.9 -©SuperLego9000",
+    "$infotext": "§cLego §eBrick §aClient §9V1",
+
+
+    //just globals you should not change
+    "$rendersize": "small",
+    "$renderalignment": "right",
+    "$renderanchorfrom": "bottom_left",
+    "$renderanchorto": "bottom_left",
+    "$renderalpha": 0.6,
+    "$rendershadow": false,
+
+    "$infoshadow": false,
+    "$infoalignment": "left",
+    "$infooffset": [ "%10", "%1" ],
+    "$infofont": 0.7,
+    "$infoanchorfrom": "top_right",
+    "$infoanchorto": "top_right",
+    "$infoalpha": 1
+}

@@ -3808,25 +3808,11 @@
         "4": {
           "type": "label",
           "font_scale_factor": 1.0,
-          "text": "§9
-          Custom Names for all tools and armor
-          More obvious Player/Mob particles
-          Less obstructive break particles
-          Nicer death particles+screen
-          Color-Coded Toggles in menus
-          Custom messages from beds
-          Color-coded join message
-          Break percentage meter
-          better explosions
-          No SpyGlass Blur
-          No Pumpkin Blur
-          Crop indicator
-          Low Fire
-          No Fog
-          "
+          "text": "§9\nCustom Names for all tools and armor\nMore obvious Player/Mob particles\nLess obstructive break particles\nNicer death particles+screen\nColor-Coded Toggles in menus\nbetter block break selector\nCustom messages from beds\nColor-coded join message\nBreak percentage meter\nbetter explosions\nNo SpyGlass Blur\nNo Pumpkin Blur\nCrop indicator\nLow Fire\nNo Fog"
         }
       }
     ]
+    
   },
   // Music and Sound button & section
   "sound_button@settings_common.section_toggle_base": {

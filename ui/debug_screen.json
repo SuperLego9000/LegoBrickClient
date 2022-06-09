@@ -24,43 +24,33 @@
   //--------------------------------------------------------------------------------
 
   "pack_info": {
-    "offset": [ -1, 1 ],
+    "shadow": "$infoshadow",
+    "text_alignment": "$infoalignment",
+    "offset": "$infooffset",
     "type": "label",
-    "text": "§l§o§c§kH§r§l§o§e>§cLego §eBrick §aClient§e<§c§kH§r§e
-§l§9Visuals
-§eChunk Borders
-§eXray
-§l§9Player
-§eElytra Fly
-§eteleport
-§espeed
-§efly
-
-",
+    "text": "$infotext",
     "color": [ 1.0, 1.0, 1.0 ],
-    "shadow": true,
-    "text_alignment": "center",
-"font_scale_factor": 0.5,
+  "font_scale_factor": "$infofont",
     "visible": "$pack_info_debug",
-    "anchor_from": "top_right",
-    "anchor_to": "top_right",
-    "alpha": 1
+    "anchor_from": "$infoanchorfrom",
+    "anchor_to": "$infoanchorto",
+    "alpha": "$infoalpha"
   },
     //--------------------------------------------------------------------------------
   // Beta Info
   //--------------------------------------------------------------------------------
 
   "special_render": {
+    "shadow": "$rendershadow",
     "type": "label",
-    "text": "§e1.18.1-0.1.13",
+    "text": "$rendertext",
     "color": [ 1.0, 1.0, 1.0 ],
-    "shadow": true,
-    "font_size": "small",
+    "font_size": "$rendersize",
     "visible": "$pack_info_debug",
-    "text_alignment": "center",
-    "anchor_from": "top_middle",
-    "anchor_to": "top_middle",
-    "alpha": 0.3
+    "text_alignment": "$renderalignment",
+    "anchor_from": "$renderanchorfrom",
+    "anchor_to": "$renderanchorto",
+    "alpha": "$renderalpha"
   },
 
 //--------------------------------------------------------------------------------
